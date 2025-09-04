@@ -1,7 +1,5 @@
 # AlgoZenith WebDev Hackathon: AlgoSearch
 
-Check out the live version of AlgoSearch at [https://algosearchbeta.netlify.app/](https://algosearchbeta.netlify.app/). 
-
 Welcome to AlgoSearch, a project developed for the AlgoZenith WebDev Hackathon! 
 
 ## About AlgoSearch
